@@ -9,6 +9,7 @@
 2. RL_PD_Control.ipynb adds the RL action in tau to compensate the external force.
 3. Result_Comparison.ipynb compares the PD result and PD-RL result.
 
+## Installation
 **"requirements.txt"**: define the require dependency to run everything in this repo.
 1. Make sure Python 3.11 is install on your machine.
 2. Create a Python virtual env with 
@@ -25,3 +26,4 @@ source .venv/bin/activate
 ```python
 pip install -r requirements.txt
 ```
+## Framework for RL + PD
