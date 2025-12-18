@@ -30,4 +30,7 @@ pip install -r requirements.txt
 ![demo image](images/Framework.png)
 
 ## RL + PD Pybullet Demo
-![demo](images/PD-RL with limit and force.gif)
+<img src="images/PD-RL with limit and force.gif" width="400">
+
+## Comparison Result
+![demo image](images/Comparison.png)
